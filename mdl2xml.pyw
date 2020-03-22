@@ -14,7 +14,7 @@ def mdl2xml(fileName):
 
     myengine.save_system(fileName, xmlCompleteFilename, 'ExportToXML', True)
 
-    myengine.quit() #stop engine
+    myengine.quit() # Stop engine
 
-fileName = sys.argv[1] #call function
-mdl2xml(fileName)
+fileName = sys.argv[1]
+mdl2xml(fileName) # Call function
