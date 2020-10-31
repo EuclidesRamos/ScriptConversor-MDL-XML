@@ -5,6 +5,9 @@
 <p>Você pode realizar a instalação da API do Matlab através do link:
 https://www.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html</p>
 
+<p>Outro link util:
+https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html</p>
+
 ### Como executar
 
 <code>python mdl2xml.pyw _nomeDoArquivo.mdl_</code>
